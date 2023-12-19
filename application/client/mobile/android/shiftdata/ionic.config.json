@@ -1,0 +1,7 @@
+{
+  "name": "shiftdata",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
